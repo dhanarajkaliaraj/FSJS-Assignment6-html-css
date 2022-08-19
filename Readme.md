@@ -5,9 +5,10 @@
     - Hero text-image layout.
     - Image handling.
     - Text formatting and styling.
-    - List bullet icons styling
+    - List bullet icons styling.
+    - Icon-text Cards styling.
 ### :hourglass_flowing_sand: Time taken to complete!
-    - 3.5 hours
+    - 4 hours
 ### :computer: [Assignment-6 live link](https://dhanaraj-assignment6.netlify.app)
  
 <div align="right">:name_badge: Dhanaraj Kaliaraj</div>
